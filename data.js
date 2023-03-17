@@ -1,1 +1,1 @@
-let data = new Date()
+let data = new Date() // Added new Date
